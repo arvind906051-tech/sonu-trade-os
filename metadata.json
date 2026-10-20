@@ -1,0 +1,6 @@
+{
+  "name": "AITOS Trade OS",
+  "description": "Institutional-grade dark-themed Trading Command Center featuring Market Pulse, Real-time Index Option Chains, Early-Signal Pipeline, Liquidity Board, and Risk Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
